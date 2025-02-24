@@ -8,3 +8,7 @@ cyberagent/
 Rakuten/
 
 *.gguf
+
+# Weaviate
+
+node_modules/
