@@ -1,1 +1,10 @@
+# ArchiveBox
+
 archivebox/data/
+
+# Model
+
+cyberagent/
+Rakuten/
+
+*.gguf

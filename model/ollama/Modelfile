@@ -1,0 +1,1 @@
+FROM ../rakuten-ai-7b-instruct:7b.gguf
