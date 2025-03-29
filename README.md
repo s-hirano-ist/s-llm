@@ -31,3 +31,9 @@ ollama create cyberagent-qwen-jp:14b -f ollama/ModelFile
 ```bash
 ollama run cyberagent-qwen-jp:14b
 ```
+
+## Webサイトクローリング
+
+```bash
+docker run -v $PWD/crawls:/crawls/ -it webrecorder/browsertrix-crawler crawl --url https://s-hirano.com  --generateWACZ --text --collection test
+```

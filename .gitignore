@@ -12,3 +12,7 @@ Rakuten/
 # Weaviate
 
 node_modules/
+
+# Crawls
+
+crawls/
