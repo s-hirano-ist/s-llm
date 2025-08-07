@@ -16,3 +16,6 @@ node_modules/
 # Crawls
 
 crawls/
+
+#　mac
+.DS_Store
